@@ -44,7 +44,7 @@
                             if (status === google.maps.DirectionsStatus.OK) {
                                 // Alert the distance in meters
                                 alert(response.routes[0].legs[0].distance.value);
-                                //console.dir(response);
+                                console.dir(response);
                             } else {
                                 window.alert('Directions request failed due to ' + status);
                             }

@@ -30,12 +30,8 @@
                         <label for="address_auto">Write your address</label>
                         <input name="address_auto" id="address_auto" class="form-control" placeholder="Write address" />
                     </div>
-                    
                 </form>
-                
             </div>
-            
-        </div>
-        
+        </div>        
     </body>
 </html>
